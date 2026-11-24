@@ -6,7 +6,7 @@ Codebuch Stand 2026-11 erstellt von Sylvia Kopplow (sk414\@hdm-stuttgart.de)
 
 - [Anne_Will_SNA_Edgelist.csv](https://github.com/sk414-HdM/Uebung-Anne-Will/blob/main/Anne_Will_SNA_Edgelist.csv) (Edgelist)
 - [Anne_Will_SNA_Nodelist.csv](https://github.com/sk414-HdM/Uebung-Anne-Will/blob/main/Anne_Will_SNA_Nodelist.csv) (Nodelist)
-- Codebuch.md (Codierung der Datensätze)
+- [Anne_Will_SNA_Codebuch.md](https://github.com/sk414-HdM/Uebung-Anne-Will/blob/main/Anne_Will_SNA_Codebuch.md) (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 
